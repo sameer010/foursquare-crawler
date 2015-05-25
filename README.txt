@@ -1,1 +1,1 @@
-Crawler for linkedin
+Crawler for foursquare
